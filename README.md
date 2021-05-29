@@ -1,4 +1,4 @@
-### за 300кк/наносек 👋
+### зп 300кк/наносек 👋
 
 <!--
 **EvgeniyKireev/EvgeniyKireev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
